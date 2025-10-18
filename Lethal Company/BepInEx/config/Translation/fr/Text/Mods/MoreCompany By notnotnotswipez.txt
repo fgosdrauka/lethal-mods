@@ -1,0 +1,3 @@
+Crew Size:=Taille de l'équipage
+v45 (MC)=V45 (MC)
+Cosmetics Enabled:=Activer les Cosmétiques:

@@ -1,0 +1,8 @@
+Red Suit=Rouge
+Yellow Suit=Jaune
+Green Suit=Vert
+Blue Suit=Bleu
+Purple Suit=Violet
+Pink Suit=Rose
+White Suit=Blanc
+Black Suit=Noir

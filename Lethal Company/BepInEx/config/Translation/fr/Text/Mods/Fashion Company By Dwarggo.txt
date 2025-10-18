@@ -1,0 +1,6 @@
+Workout=Entraîneur
+Dog=Chien
+Arctic=Arctique
+Elite=Élite
+Highclass=Grande classe
+Speedster=Chauffeur

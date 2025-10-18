@@ -1,0 +1,5 @@
+Pet cat : [LMB]=Carresser Chat [LMB]
+Cat Facts=Faits sur les chats
+Cat=Chat
+
+sr:"^Cat ([\s\S]+)$"=Chat $1

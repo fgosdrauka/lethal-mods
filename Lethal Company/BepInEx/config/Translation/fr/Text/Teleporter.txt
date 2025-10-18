@@ -1,0 +1,1 @@
+sr:"^[Cooldown: ([\s\S]+) sec.]$"=[Patientez: $1s]

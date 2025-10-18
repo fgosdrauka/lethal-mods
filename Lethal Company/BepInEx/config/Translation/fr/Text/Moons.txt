@@ -1,0 +1,48 @@
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=En orbite ： $1\nPOPULATION : $2\nCONDITIONS : $3\nFAUNE : $4$5$6
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=En orbite ： $1\nPOPULATION : $2\nCONDITIONS : $3\nFAUNE : $4\nMETEO : $5
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\n([\s\S]+)$"=POPULATION : $1\nCONDITIONS : $2\nFAUNE : $3\n$4
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)$"=POPULATION : $1\nCONDITIONS : $2\nFAUNE : $3
+sr:"^CELESTIAL BODY: ([\s\S]+)$"=CORPS CÉLESTE: $1
+
+Eclipsed=Éclipse
+Flooded=Inondée
+Foggy=Brumeux
+Stormy=Orageux
+Rainy=Pluvieux
+
+8 Titan=Titan-8
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Gelée, rocheuse. Cette lune a été exploitée pour ses ressources. Il est facile de s'y perdre.
+Dangerous entities have been rumored to take residence in the vast network of tunnels.\n=Des entités dangereuses auraient élu domicile dans le vaste réseau de tunnels.\n
+
+21 Offense=Offense-21
+220 Assurance=Assurance-220
+Jagged and weathered terrain. =Terrain rocailleux et altéré par les intempéries.
+Ecosystem supports territorial behaviour.=Écosystème favorisant les comportements territoriaux.
+Ecosystem supports territorial behaviour.\n=Écosystème favorisant les comportements territoriaux.\n
+
+31 March=March-31
+
+41 Experimentation=Experimentation-41
+Abandoned=Abandonné
+Arid. Thick haze, worsened by industrial artifacts.=Aride. Brume épaisse, renforcée par des artefacts industriels.
+Dominated by a few species.\n=Dominée par quelques espèces.\n
+
+56 Vow=Vow-56
+Humid. Rough terrain. Teeming with plant-life.=Humide. Terrain rugueux. Plante abondante.
+A competitive ecosystem supports aggressive lifeforms.\n=Écosystème compétitif favorisant les formes de vie agressives.\n
+
+
+61 March=March-61
+Diverse=Diverse
+Expansive. Constant rain.=Très vaste. Pluie constante.
+
+71 Gordion=Gordion-71
+Unknown=Inconnu
+No land masses. Continual storms.=Pas de masse terrestre. Tempêtes incessantes.
+Unknown\nWhere the Company resides.\n=Inconnu\n Lieu de résidence de la Compagnie\n
+
+7 Dine=Dine-7
+85 Rend=Rend-85
+None=Aucun
+Frozen, rocky. Its planet orbits a white dwarf star.=Gelée, rocheuse. Sa planète est en orbite autour d'une étoile naine blanche.
+Unlikely for complex life to exist.=Peu probable qu'une vie complexe y existe.

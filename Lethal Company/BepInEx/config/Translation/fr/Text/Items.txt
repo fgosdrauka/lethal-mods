@@ -1,0 +1,73 @@
+#Regex --------------------------------------------------------
+
+
+sr:"^Drop ([\s\S]+) : ([\s\S]+)$"=Lâcher $1 $2
+sr:"^([\s\S]+) collected!$"=l'objet $1 récupéré!
+sr:"^([\s\S]+) stored!$"=L'objet $1 stocké!
+sr:"^Use ([\s\S]+) : ([\s\S]+)$"=Utiliser $1 $2
+sr:"^Found journal entry: ([\s\S]+)$"=Journal de bord trouvé: $1
+
+
+
+#Items---------------------------------------------------------
+
+
+Apparatus=Générateur
+Big bolt=Gros boulon
+Brass bell=Cloche en laiton
+Brush=Brosse
+Sticky note=Note autocollante
+Candy=Bonbon
+Clown horn=Corne de clown
+Coffee mug=Tasse à café
+Cookie mold pan=Moule à biscuits
+Dust pan=Pelle a poussiere
+Egg beater=Batteur à œufs
+Golden cup=Coupe dorée
+Hair brush=Brosse à cheveux
+Jar of pickles=Bocal de cornichons
+Key=Clé
+key=Clé
+Laser pointer=Pointeur laser
+Magnifying glass=Loupe
+Old phone=Old phone=Vieux téléphone 
+Perfume bottle=Flacon de parfum
+Pill bottle=Flacon de pilules
+Plastic fish=Poisson en plastique
+Cash register=Caisse enregistreuse
+Red soda=Canette de soda
+Ring bell: [E]=Cloche à sonnette
+Robot Toy=Jouet robot
+Steering wheel=Volant
+Stop sign=Panneau stop
+Tattered metal sheet=Tôle en lambeaux
+Metal sheet=Tôle
+Tea Kettle=Bouilloire à thé
+Teeth=Dents
+Toothpaste=Dentifrice
+Toy cube=Rubik's cube
+Yield sign=Panneau cédez-le-passage
+Wedding ring=Bague de mariage
+Apparatice=Appareil
+Bee hive=Rûche d'abeilles
+Mug=Tasse
+Bottles=Bouteilles
+Chemical jug=Bonbonne chimique
+Ring=Anneau
+Rubber Ducky=Canard en caoutchouc
+Fancy lamp=Lampe fantaisiste
+Large axle=Grand axe
+Painting=Peinture
+V-type engine=Moteur Type-V
+Body=Corps
+Airhorn=Corne de brume
+Gold Bar=Lingot d'or
+Flask=Ballon
+Remote=Télécommande
+Spray paint=Bombe de peinture
+Landmine=Mine
+Homemade flashbang=Grenade artisanale
+DIY-Flashbang=Grenade assourdissante DIY
+Gift box=Cadeau
+Whoopie cushion=Coussin péteur
+Tragedy=Tragédie

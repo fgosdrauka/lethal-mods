@@ -1,0 +1,16 @@
+sr:"^You've made.. ([\s\S]+)$$"=Tu as collecté... $1
+sr:"^Level: ([\s\S]+)$"=Niveau: $1
+sr:"^(([\s\S]+) Health Regeneration)$"=($1 régénération de santé)
+
+Upgrades:=Points:
+Level Up! Spend your skill points.=Montez en niveau! Dépensez vos points de compétence.
+(Pause Menu -> Skills)=(Menu Pause -> Compétences)
+
+
+HPR:=HPR:
+STM:=STM:
+(+0% Stamina)=(+0% d'endurance)
+BAT:=BAT:
+(+0% Battery Life)=(+0% d'autonomie de la batterie)
+VAL:=VAL:
+(+0% Loot Value)=(+0% de valeur de butin)

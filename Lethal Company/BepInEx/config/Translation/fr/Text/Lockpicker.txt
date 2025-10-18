@@ -1,0 +1,1 @@
+sr:"^Picking lock: ([\s\S]+) sec.$"=En train de crocheter: $1s
